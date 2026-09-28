@@ -87,4 +87,7 @@ Currently I would start working on the portfolio and the rest of the game will b
  The portfolio has been developing at a very fast pace - I think it'll be completed in a day or two if at the same rate - after the visual polish and optimisation is done I'll public the final portfolio - Its true AI has really made it faster to develop things however it still cannot calculate the vector ratio that is required for the Three js models to work the way u do - Manual survelliance is still superior and required. 
 ---
  Have been working on the portfolio for the past week - will be ready real soon
- 
+---
+ The portfolio is not completed and can be seen at - **https://sahilsingh.website**
+ However for the past few days I've started revising all the concepts in a fundamental order - right now I am revising all the javascript that I have learnt before thats why there are no more projects for a while right now. 
+ Will be back soon - (28 Sep 2026)
