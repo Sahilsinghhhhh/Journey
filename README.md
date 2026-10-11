@@ -91,3 +91,5 @@ Currently I would start working on the portfolio and the rest of the game will b
  The portfolio is not completed and can be seen at - **https://sahilsingh.website**
  However for the past few days I've started revising all the concepts in a fundamental order - right now I am revising all the javascript that I have learnt before thats why there are no more projects for a while right now. 
  Will be back soon - (28 Sep 2026)
+# Roblox -
+currently am learning roblox sudio along with lua.
